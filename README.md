@@ -1,4 +1,5 @@
 # OWASP Juice Shop - Cypress Automation Assessment
+Open Web Application Security Project
 
 ##  Project Overview
 
