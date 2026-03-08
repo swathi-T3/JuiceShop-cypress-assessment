@@ -1,4 +1,4 @@
-describe('Adding new card details and validating them', () => {
+describe('Adding new card details and validating them', () => { 
 
  let cardData // Declaring a variable to store the card details
 
