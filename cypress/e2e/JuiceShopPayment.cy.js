@@ -4,10 +4,10 @@ describe('Adding new card details and validating them', () => {
 
 
 // using beforeEach to resuse the login functionality
-beforeEach(() => { // 
+beforeEach(() => {  
   cy.Login();
 
-  cy.fixture('carddetails').then((data) => {  
+  cy.fixture('carddetails').then((data) => {  // command Chain 
     cardData = data
   })
 });
